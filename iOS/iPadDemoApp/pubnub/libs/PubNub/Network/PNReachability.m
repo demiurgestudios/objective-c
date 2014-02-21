@@ -18,6 +18,7 @@
 #import "PubNub+Protected.h"
 #import "PNConstants.h"
 #import "PNResponse.h"
+#import "PNNetworkHelper.h"
 #import <netinet/in.h>
 #import <arpa/inet.h>
 

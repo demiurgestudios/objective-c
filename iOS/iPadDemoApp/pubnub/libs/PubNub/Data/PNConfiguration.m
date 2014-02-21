@@ -13,6 +13,8 @@
 #import "PNDefaultConfiguration.h"
 #import "PNPrivateMacro.h"
 #import "PNConstants.h"
+#import "PNConfiguration.h"
+#import "PNMacro.h"
 
 
 // ARC check
