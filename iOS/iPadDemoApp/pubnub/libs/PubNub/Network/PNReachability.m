@@ -12,6 +12,7 @@
 //
 //
 
+#import <Availability.h>
 #import "PNReachability.h"
 #import <SystemConfiguration/SystemConfiguration.h>
 #import "PNResponseParser.h"
